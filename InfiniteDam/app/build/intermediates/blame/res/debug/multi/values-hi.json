@@ -1,0 +1,634 @@
+[
+    {
+        "outputFile": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\res\\merged\\debug\\values-hi\\values-hi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 114,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 114,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 104,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 104,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 106,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 106,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 84,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 84,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 101,
+                    "endOffset": 614
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 101,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 619,
+                    "endColumn": 121,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 121,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 108,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 108,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 101,
+                    "endOffset": 947
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 101,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 952,
+                    "endColumn": 97,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1125,
+                        "endColumn": 97,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 109,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 109,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 99,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1333,
+                        "endColumn": 99,
+                        "endOffset": 1428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1260,
+                    "endColumn": 114,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1433,
+                        "endColumn": 114,
+                        "endOffset": 1543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 124,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1548,
+                        "endColumn": 124,
+                        "endOffset": 1668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 110,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 110,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 202,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 202,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 128,
+                    "endOffset": 1938
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 128,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1943,
+                    "endColumn": 132,
+                    "endOffset": 2071
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 132,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2076,
+                    "endColumn": 213,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 213,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 216,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endColumn": 216,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2507,
+                    "endColumn": 131,
+                    "endOffset": 2634
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 131,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2639,
+                    "endColumn": 130,
+                    "endOffset": 2765
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 130,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2770,
+                    "endColumn": 243,
+                    "endOffset": 3009
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 243,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3014,
+                    "endColumn": 250,
+                    "endOffset": 3260
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 250,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3265,
+                    "endColumn": 121,
+                    "endOffset": 3382
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1850,
+                        "endColumn": 121,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3387,
+                    "endColumn": 110,
+                    "endOffset": 3493
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1972,
+                        "endColumn": 110,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3498,
+                    "endColumn": 196,
+                    "endOffset": 3690
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 196,
+                        "endOffset": 2275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3695,
+                    "endColumn": 131,
+                    "endOffset": 3822
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2280,
+                        "endColumn": 131,
+                        "endOffset": 2407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3827,
+                    "endColumn": 207,
+                    "endOffset": 4030
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2412,
+                        "endColumn": 207,
+                        "endOffset": 2615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4035,
+                    "endColumn": 136,
+                    "endOffset": 4167
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2620,
+                        "endColumn": 136,
+                        "endOffset": 2752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4172,
+                    "endColumn": 183,
+                    "endOffset": 4351
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2757,
+                        "endColumn": 183,
+                        "endOffset": 2936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4356,
+                    "endColumn": 92,
+                    "endOffset": 4444
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2941,
+                        "endColumn": 92,
+                        "endOffset": 3029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4449,
+                    "endColumn": 95,
+                    "endOffset": 4540
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3034,
+                        "endColumn": 95,
+                        "endOffset": 3125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4545,
+                    "endColumn": 113,
+                    "endOffset": 4654
+                },
+                "from": {
+                    "file": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\InfiniteDam\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-hi\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3130,
+                        "endColumn": 113,
+                        "endOffset": 3239
+                    }
+                }
+            }
+        ]
+    }
+]

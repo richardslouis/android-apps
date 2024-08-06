@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Drives\F-Rosalind\Applications\Apps\Android\AppLabs\Labs\.metadata\.plugins\org.eclipse.jdt.core
+3908315430.index
+1899480338.index
+2015366058.index

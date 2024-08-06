@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bgandroid"
+    android:orientation="vertical"
+    tools:ignore="InefficientWeight" >
+
+    <EditText
+        android:id="@+id/URL"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_weight="0.01"
+        android:autoText="true"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:lines="@integer/donkey"
+        android:maxLines="@integer/donkey"
+        android:minLines="@integer/donkey"
+        android:scrollHorizontally="false"
+        android:singleLine="true"
+        android:textSize="@dimen/pinky"
+        tools:ignore="TextFields,HardcodedText,Deprecated" />
+
+    <Button
+        android:id="@+id/Go"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:text="Go"
+        tools:ignore="HardcodedText" />
+
+    <WebView
+        android:id="@+id/WebEngine"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.40"
+        android:layout_alignParentLeft="false"
+        android:fitsSystemWindows="true"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.01" >
+
+        <Button
+            android:id="@+id/flip"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flip/Info"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/back"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="63dp"
+            android:layout_height="wrap_content"
+            android:text="  &lt;  "
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/forward"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="66dp"
+            android:layout_height="wrap_content"
+            android:text="  >  "
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/reload"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="108dp"
+            android:layout_height="wrap_content"
+            android:text="Reload"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/stop"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:text="  X  "
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:progressDrawable="@layout/greenprogress" />
+
+</LinearLayout>

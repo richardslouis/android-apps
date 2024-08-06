@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.infinitedam.InfiniteDam"
+    tools:ignore="MergeRootFrame" >
+
+     <WebView
+         android:id="@+id/webView1"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_above="@+id/reload"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentRight="true"
+         android:layout_below="@+id/textView3"
+         android:background="@android:color/transparent" />
+
+    <Button
+        android:id="@+id/stop"
+        style="@style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item"
+        android:layout_width="77dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@android:drawable/alert_dark_frame"
+        android:text="  Stop  "
+        tools:ignore="HardcodedText" />
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/webView1" />
+
+    <Button
+        android:id="@+id/reload"
+        style="@style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@android:drawable/alert_dark_frame"
+        android:text="Reload"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/back"
+        style="@style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item"
+        android:layout_width="63dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/reload"
+        android:background="@android:drawable/alert_dark_frame"
+        android:text="  &lt;  "
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/forward"
+        style="@style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item"
+        android:layout_width="66dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/back"
+        android:background="@android:drawable/alert_dark_frame"
+        android:text="  >  "
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView1"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:text="GoDaddy | Infinitedam | Richiesoft"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

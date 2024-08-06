@@ -1,0 +1,713 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="false"
+    android:scrollbarAlwaysDrawVerticalTrack="false"
+    tools:context=".FosterEnglish" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="18dp"
+        android:text="@string/Foster_english"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Hello Android :)"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/A_flavor_of_black_and_white_for_android_edition"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp"
+        android:text="Proud to give out the very light memory app"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:text="Richiesoft (c) 2012 Richards Louis"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="v 1.0"
+        tools:ignore="HardcodedText" />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/multiAutoCompleteTextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/textView5"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentTop="false"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="false"
+        android:layout_centerInParent="false"
+        android:layout_centerVertical="false"
+        android:clickable="false"
+        android:duplicateParentState="false"
+        android:editable="false"
+        android:ems="10"
+        android:focusable="false"
+        android:freezesText="false"
+        android:gravity="center_vertical|left"
+        android:longClickable="false"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:text="AILUROPHILE                                                        
+
+A cat-lover.                                             
+
+                                                                       
+
+ASSEMBLAGE                                                                  
+
+A gathering.                                                          
+
+
+
+BECOMING                                                          
+
+Attractive.                                                              
+
+
+
+BELEAGUER                                                                                                                                     
+
+To exhaust with attacks.                                                                                                                            
+
+
+
+BROOD                                                                       
+
+To think alone.                                                                       
+
+
+
+BUCOLIC                                                                       
+
+In a lovely rural setting.                                                                       
+
+
+
+BUNGALOW                                                                       
+
+A small, cozy cottage.                                                                       
+
+
+
+CHATOYANT                                                                       
+
+Like a cat&apos;s eye.                                                                       
+
+
+
+COMELY                                                                       
+
+Attractive.                                                                       
+
+
+
+CONFLATE                                                                       
+
+To blend together.                                                                       
+
+
+
+CYNOSURE                                                                       
+
+A focal point of admiration.                                                                       
+
+
+
+DALLIANCE                                                                       
+
+A brief love affair.                                                                       
+
+
+
+DEMESNE                                                                       
+
+Dominion, territory.                                                                       
+
+
+
+DEMURE                                                                       
+
+Shy and reserved.                                                                       
+
+
+
+DENOUEMENT                                                                       
+
+The resolution of a mystery.                                                                       
+
+
+
+DEAUETUDE                                                                       
+
+Disuse.                                                                           
+
+
+
+DESULTORY                                                                       
+
+Slow, sluggish.                                                                       
+
+
+
+DIAPHANOUS                                                                       
+
+Filmy.                                                                            
+
+
+
+DISSEMBLE                                                                       
+
+Deceive.                                                                       
+
+
+
+DULCET                                                                       
+
+Sweet, sugary.                                                                       
+
+
+
+EBULLIENCE                                                                       
+
+Bubbling enthusiasm.                                                                       
+
+
+
+EFFERVESCENT                                                                       
+
+Bubbly.                                                                           
+
+
+
+EFFLORESCENCE                                                                       
+
+Flowering, blooming.                                                                       
+
+
+
+ELISION                                                                       
+
+Dropping a sound or syllable in a word.                                                                       
+
+
+
+ELIXIR                                                                       
+
+A good potion.                                                                       
+
+
+ELOQUENCE                                                                       
+
+Beauty and persuasion in speech.                                                                       
+
+
+
+EMBROCATION                                                                       
+
+Rubbing on a lotion.                                                                       
+
+
+
+EMOLLIENT                                                                       
+
+A softener.                                                                       
+
+
+
+EPHEMERAL                                                                       
+
+Short-lived.                                                                       
+
+
+
+EPIPHANY                                                                       
+
+A sudden revelation.                                                                       
+
+
+
+ERSTWHILE                                                                       
+
+At one time, for a time.                                                                       
+
+
+
+ETHEREAL                                                                       
+
+Gaseous, invisible but detectable.                                                                       
+
+
+
+EVANESCENT                                                                                                                                              
+
+Vanishing quickly, lasting a very short time.                                                                       
+
+
+
+EVOCATIVE                                                                       
+
+Suggestive.                                                                       
+
+
+
+FETCHING                                                                       
+
+Pretty.                                                                       
+
+
+
+FELICITY                                                                       
+
+Pleasantness.                                                                       
+
+
+
+FORBEARANCE                                                                       
+
+Withholding response to provocation.                                                                       
+
+
+
+FUGACIOUS                                                                       
+
+Fleeting.                                                                       
+
+
+
+FURTIVE                                                                       
+
+Shifty, sneaky.                                                                       
+
+
+
+GAMBOL                                                                       
+
+To skip or leap about joyfully.                                                                       
+
+
+
+GLAMOUR                                                                       
+
+Beauty.                                                                       
+
+
+
+GOSSAMER                                                                       
+
+The finest piece of thread, a spider&apos;s silk                                                                       
+
+
+
+HALCYON                                                                       
+
+Happy, sunny, care-free.                                                                       
+
+
+
+HARBINGER                                                                       
+
+Messenger with news of the future.                                                                       
+
+
+
+IMBRICATION                                                                       
+
+Overlapping and forming a regular pattern.                                                                       
+
+
+
+IMBROGLIO                                                                       
+
+An altercation or complicated situation.                                                                       
+
+
+
+IMBUE                                                                       
+
+To infuse, instill.                                                                       
+
+
+
+INCIPIENT                                                                       
+
+Beginning, in an early stage.                                                                       
+
+
+
+INEFFABLE                                                                       
+
+Unutterable, inexpressible.                                                                       
+
+
+
+INGENUE                                                                       
+
+A naïve young woman.                                                                       
+
+
+
+INGLENOOK                                                                       
+
+A cozy nook by the hearth.                                                                       
+
+
+
+INSOUCIANCE                                                                       
+
+Blithe nonchalance.                                                                       
+
+
+
+INURE                                                                       
+
+To become jaded.                                                                       
+
+
+
+LABYRINTHINE                                                                       
+
+Twisting and turning.                                                                       
+
+
+
+LAGNIAPPE                                                                       
+
+A special kind of gift.                                                                       
+
+
+
+LAGOON                                                                       
+
+A small gulf or inlet.                                                                       
+
+
+
+LANGUOR                                                                       
+
+Listlessness, inactivity.                                                                       
+
+
+
+LASSITUDE                                                                       
+
+Weariness, listlessness.                                                                       
+
+
+
+LEISURE                                                                       
+
+Free time.                                                                       
+
+
+
+LILT                                                                             
+
+To move musically or lively.                                                                       
+
+
+
+LISSOME                                                                                                                                              
+
+Slender and graceful.                                                                       
+
+
+
+LITHE                                                                       
+
+Slender and flexible.                                                                       
+
+
+
+LOVE                                                                       
+
+Deep affection.                                                                       
+
+
+
+MELLIFLUOUS                                                                       
+
+Sweet sounding.                                                                       
+
+
+
+MOIETY                                                                       
+
+One of two equal parts.                                                                       
+
+
+
+MONDEGREEN                                                                       
+
+A slip of the ear.                                                                       
+
+
+
+MURMUROUS                                                                                                                                              
+
+Murmuring.                                                                       
+
+
+NEMESIS                                                                       
+
+An unconquerable archenemy.                                                                       
+
+
+
+OFFING                                                                       
+
+The sea between the horizon and the offshore.                                                                       
+
+
+
+ONOMATOPOEIA                                                                       
+
+A word that sounds like its meaning.                                                                       
+
+
+
+OPULENT                                                                       
+
+Lush, luxuriant.                                                                       
+
+
+
+PALIMPSEST                                                                       
+
+A manuscript written over earlier ones.                                                                       
+
+
+
+PANACEA                                                                       
+
+A solution for all problems                                                                       
+
+
+
+PANOPLY                                                                       
+
+A complete set.                                                                       
+
+
+
+PASTICHE                                                                       
+
+An art work combining materials from various sources.                                                                       
+
+
+
+PENUMBRA                                                                       
+
+A half-shadow.                                                                       
+
+
+
+PETRICHOR                                                                       
+
+The smell of earth after rain.                                                                       
+
+
+
+PLETHORA                                                                       
+
+A large quantity.                                                                       
+
+
+
+PROPINQUITY                                                                       
+
+An inclination.                                                                       
+
+
+
+PYRRHIC                                                                       
+
+Successful with heavy losses.                                                                       
+
+
+
+QUINTESSENTIAL                                                                       
+
+Most essential.                                                                       
+
+
+
+RATATOUILLE                                                                       
+
+A spicy French stew.                                                                       
+
+
+
+RAVEL                                                                       
+
+To knit or unknit.                                                                       
+
+
+
+REDOLENT                                                                       
+
+Fragrant.                                                                         
+
+
+
+RIPARIAN                                                                       
+
+By the bank of a stream.                                                                       
+
+
+
+RIPPLE                                                                       
+
+A very small wave.                                                                       
+
+
+
+SCINTILLA                                                                       
+
+A spark or very small thing.                                                                       
+
+
+
+SEMPITERNAL                                                                       
+
+Eternal.                                                                       
+
+
+
+SERAGLIO                                                                       
+
+Rich, luxurious oriental palace or harem.                                                                       
+
+
+
+SERENDIPITY                                                                                                                                              
+
+Finding something nice while looking for something else.                                                                       
+
+
+
+SUMMERY                                                                       
+
+Light, delicate or warm and sunny.                                                                       
+
+
+
+SUMPTUOUS                                                                       
+
+Lush, luxurious.                                                                       
+
+
+
+SURREPTITIOUS                                                                       
+
+Secretive, sneaky.                                                                       
+
+
+
+SUSQUEHANNA                                                                       
+
+A river in Pennsylvania.                                                                       
+
+
+
+SUSURROUS                                                                       
+
+Whispering, hissing.                                                                       
+
+
+
+TALISMAN                                                                       
+
+A good luck charm.                                                                       
+
+
+
+TINTINNABULATION                                                                       
+
+Tinkling.                                                                       
+
+
+
+UMBRELLA                                                                       
+
+Protection from sun or rain.                                                                       
+
+
+
+UNTOWARD                                                                       
+
+Unseemly, inappropriate.                                                                       
+
+
+
+VESTIGIAL                                                                       
+
+In trace amounts.                                                                       
+
+
+
+WAFTURE                                                                       
+
+Waving.                                                                       
+
+
+
+WHEREWITHAL                                                                       
+
+The means.                                                                       
+
+
+
+WOEBEGONE                                                                       
+
+Sorrowful, downcast.                                                                       
+        "
+        tools:ignore="HardcodedText,Deprecated" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView5"
+        android:text="Lite version"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>

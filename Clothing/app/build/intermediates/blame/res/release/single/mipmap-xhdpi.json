@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Clothing\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Clothing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Clothing\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\splash.png",
+        "source": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Clothing\\app\\src\\main\\res\\mipmap-xhdpi\\splash.png"
+    }
+]

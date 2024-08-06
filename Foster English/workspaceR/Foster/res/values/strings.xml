@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Foster English</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_foster_english">Foster English</string>
+    <string name="A_flavor_of_black_amp_white_for_android_edition">A flavor of Black &amp;amp; White for Android edition</string>
+    <string name="A_flavor_of_black_and_white_for_android_edition">A flavor of black and white for android edition</string>
+    <string name="_About_">"                     About                         "</string>
+    <string name="_Start_exploring_words_">"  Start Exploring Words  "</string>
+    <string name="Foster_english">Foster English</string>
+
+</resources>

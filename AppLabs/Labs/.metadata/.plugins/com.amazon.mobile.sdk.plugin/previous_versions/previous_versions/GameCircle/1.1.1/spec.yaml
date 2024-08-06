@@ -1,0 +1,20 @@
+# GameCircle properties
+name: GameCircle
+version: 1.1.1
+info: Amazon Game Circle API - provides leaderboard, etc
+registration: Login to https://developer.amazon.com/welcome.html and register from GameCircle tab
+minApiLevel: 1
+minPluginVersion: 1.0.0
+
+# Supported Amazon devices
+devices:
+    - '*'
+
+features:
+    - name: core
+      optional: false
+      # API Library to include
+      libs: 
+        - jar: amazon-game-services-1.1.1.jar
+          bundled: true
+

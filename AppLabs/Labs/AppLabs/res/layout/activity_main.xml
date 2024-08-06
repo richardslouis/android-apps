@@ -1,0 +1,81 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/bg"
+    android:ignoreGravity="@layout/activity_main"
+    android:scrollbars="vertical"
+    tools:context=".MainActivity"
+    tools:ignore="Deprecated,ObsoleteLayoutParam" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        tools:ignore="UselessLeaf" >
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="400px"
+        android:layout_height="90px"
+        android:layout_x="82dp"
+        android:layout_y="6dp"
+        android:onClick="@string/title_activity_registernow"
+        android:text="Register Now"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button04"
+        android:layout_width="400px"
+        android:layout_height="90px"
+        android:layout_x="84dp"
+        android:layout_y="111dp"
+        android:onClick="@string/title_activity_richiesoft"
+        android:text="Richiesoft"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="400px"
+        android:layout_height="90px"
+        android:layout_x="82dp"
+        android:layout_y="225dp"
+        android:onClick="@string/title_activity_labs"
+        android:text="Labs"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="400px"
+        android:layout_height="90px"
+        android:layout_x="77dp"
+        android:layout_y="451dp"
+        android:enabled="false"
+        android:text="Login"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="400px"
+        android:layout_height="90px"
+        android:layout_x="76dp"
+        android:layout_y="558dp"
+        android:enabled="false"
+        android:text="Design Labs"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button05"
+        android:layout_width="400px"
+        android:layout_height="90px"
+        android:layout_x="81dp"
+        android:layout_y="339dp"
+        android:onClick="@string/title_activity_info"
+        android:text="Info"
+        tools:ignore="HardcodedText" />
+
+</AbsoluteLayout>

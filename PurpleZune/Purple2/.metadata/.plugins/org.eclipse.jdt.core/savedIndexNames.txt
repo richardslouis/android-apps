@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+C:\Drives\F-Rosalind\Applications\Apps\Android\PurpleZune\Purple2\.metadata\.plugins\org.eclipse.jdt.core
+4026937133.index
+2097148505.index
+2575276919.index
+3788882118.index
+2015366058.index
+3326037560.index
+3296969744.index
+3015664185.index

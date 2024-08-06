@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring all-occurrences="true" comment="Extract as Include" description="Extract as Include" file="/Foster English/res/layout/activity_foster_englsih.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.include" name="edittext1" proj="/Foster English" sel-end="877" sel-start="531" stamp="1345043369988"/>
+</session>

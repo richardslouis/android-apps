@@ -1,0 +1,23 @@
+name: ADM
+version: 1.0.0
+minApiLevel: 8
+minPluginVersion: 1.0.0
+features:
+  - name: core
+    optional: false
+    libs:
+      - jar: amazon-device-messaging.jar
+        bundled: false
+    xmlEntries:
+      - parent: manifest
+        elements:
+          - <permission android:name="[Package].permission.RECEIVE_ADM_MESSAGE" android:protectionLevel="signature" />
+          - <uses-permission android:name="[Package].permission.RECEIVE_ADM_MESSAGE" />
+          - <uses-permission android:name="android.permission.INTERNET" />
+          - <uses-permission android:name="android.permission.WAKE_LOCK" />
+          - <uses-permission android:name="com.amazon.device.messaging.permission.RECEIVE" />
+      - parent: application
+        elements:
+          - <amazon:enable-feature android:name="com.amazon.device.messaging" android:required="true" />
+          - <meta-data android:name="[Key]" android:value="@string/api_key" />
+          - <service android:name="[Service]" android:exported="false" />

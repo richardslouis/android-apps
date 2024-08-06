@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.richiesoft.paperbooklet" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">?attr/colorPrimary</item>
+        <item name="colorAccent">?attr/colorPrimary</item>
+
+        <item name="android:textColorPrimary">?attr/colorBackgroundFloating</item>
+        <item name="android:textColorPrimaryInverse">?attr/colorPrimary</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:textColorSecondaryInverse">?attr/colorPrimaryDark</item>
+        <item name="android:colorBackground">?attr/colorPrimary</item>
+        <item name="android:textColorSecondary">?attr/colorBackgroundFloating</item>
+        <item name="android:colorForeground">?attr/colorBackgroundFloating</item>
+    </style>
+</resources>

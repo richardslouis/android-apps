@@ -1,0 +1,29 @@
+# IAP plugin properties
+name: In-App Purchasing
+version: 1.0.0
+info: Amazon In-App Purchasing API from AppStore
+registration: Login to https://developer.amazon.com/welcome.html and register from In-App Purchasing tab
+minApiLevel: 1
+minPluginVersion: 1.0.0
+
+# Supported Amazon devices
+devices: 
+    - '*'
+
+features:
+    - name: core
+      optional: false
+      # API Library to include
+      libs: 
+        - jar: in-app-purchasing-1.0.0.jar
+          bundled: true
+      # Required AndroidManifest.xml entries
+      xmlEntries:
+        - parent: application
+          elements:
+            - <receiver android:name="com.amazon.inapp.purchasing.ResponseReceiver.PreviousVersionTest" >
+                <intent-filter>
+                  <action android:name="com.amazon.inapp.purchasing.NOTIFY" android:permission="com.amazon.inapp.purchasing.Permission.NOTIFY" />
+                </intent-filter>
+              </receiver>
+

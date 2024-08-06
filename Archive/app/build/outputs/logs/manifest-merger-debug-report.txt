@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:7:3-65
+MERGED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:7:20-62
+uses-sdk
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:11:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:10:9-34
+application
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:13:5-50:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:40:5-81:19
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.archivecodes.MainActivity
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:25:13-77
+	android:name
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:22:13-57
+activity#com.archivecodes.MainActivity2
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:34:13-77
+	android:name
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:31:13-58
+activity#com.archivecodes.Splash
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:41:13-36
+	android:theme
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:40:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\src\main\AndroidManifest.xml:46:27-74
+permission#${manifestApplicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:8:5-10:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:9:9-71
+uses-permission#${manifestApplicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:12:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:12:22-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:16:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:16:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:25:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:28:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:28:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:29:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:29:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:31:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:32:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:32:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:34:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:34:22-85
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:36:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:36:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:38:22-80
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:41:9-43:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:43:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:42:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:44:9-46:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:46:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:45:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:48:9-56:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:50:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:49:13-62
+intent-filter#${manifestApplicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:51:13-55:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:52:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:52:25-78
+category#${manifestApplicationId}
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:54:27-66
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:57:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:57:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:59:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:59:18-63
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:60:9-62:44
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:62:13-41
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:61:13-53
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:64:9-66:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:66:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:65:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:68:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:68:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:70:9-75:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:70:19-62
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:72:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:72:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:73:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:73:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:76:9-80:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:76:19-63
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:77:13-79:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:78:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.6.2] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\AndroidManifest.xml:78:25-81
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:22:13-58

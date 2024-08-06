@@ -1,0 +1,158 @@
+<html>
+    <head>
+        <title>Paperbooklet</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <!--[if lte IE 9]>
+        <link rel="stylesheet" href="assets/css/ie9.css" />
+        <![endif]-->
+        <!--[if lte IE 8]>
+        <link rel="stylesheet" href="assets/css/ie8.css" />
+        <![endif]-->
+        <noscript>
+        <link rel="stylesheet" href="assets/css/noscript.css" />
+        </noscript>
+        <script src="js/jquery-1.11.3.min.js"></script>
+        <meta http-equiv="refresh" content="3;URL='http://l2.paperbooklet.com/app/ad.php'" />
+    </head>
+    <body> <!-- class="is-loading" ononline="updateIndicator()" onoffline="updateIndicator()" -->
+        <!-- Wrapper -->
+        <div id="wrapper">
+            <!-- Main -->
+
+<section id="main">
+    
+    <header>
+
+        <h1><font color="#FFFFFF">PAPERBOOKLET</font></h1>
+        <p>World's first AnyOS paste</p>
+        <img src="images/loading.gif">
+            
+            <!-- <p>Shorten your URL now</p> -->
+			<!-- Chrome and Mozilla | Safari -->
+		  	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+  			<script>
+    		var OneSignal = OneSignal || [];
+				OneSignal.LOGGING = true;
+    		OneSignal.push(["init", {
+     		 appId: "ccde544e-75e3-47b9-aebd-c2fb7189b84a",
+     		 subdomainName: 'http://paperbooklet.onesignal.com',
+				safari_web_id: 'web.onesignal.auto.458f9dc8-6677-4788-b5a2-9d66a9d7a179',
+      			notifyButton: {
+        	 enable: true // Set to false to hide
+      		}
+    		}]);`
+  			</script>
+                </header>
+
+            <!--<footer><br><br>
+            <p>Designed for iOS 8.0+</p>-->
+                <!-- <br/>
+                 <ul class="icons">
+                 <li style="cursor: pointer; cursor: hand; "><img src="images/ok.png" title='Proceed' onclick="location.href='http:\\0bc.xyz'" />	</li>
+                 </ul>-->
+                <!-- <p>Incase of white <br>screen, restart app</p> -->
+                <!-- <font size='1'>Shorten to 0bcxyz.com | API &amp; Pro Stats</font> -->
+                <!-- <div id="loading" style="display:none" ><img src="images/loader.gif" alt="" /></div> -->
+                <!--</footer>
+        </section>-->
+        <!-- Footer -->
+        <!--<footer id="footer">
+         <font color="black">
+         <ul class="copyright">
+         </ul>
+            </font>
+         </footer>-->
+        </div>
+        <!-- Scripts -->
+        <!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+        
+        
+        <!-- Scripts -->
+        <!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+        <script>
+		function updateIndicator() {
+				document.getElementById('indicator').textContent = navigator.onLine ? '' : 'Uh-Oh ! Connect to Internet :(';
+			}
+            if ('addEventListener' in window) {
+                window.addEventListener('load', function () {
+                    document.body.className = document.body.className.replace(/\bis-loading\b/, '');
+                });
+                document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+
+            }
+
+
+            /*Function getCode() is used for copying the shortened Url generated once the user clicks on the "Copy" button, 
+             Also used to copy it on to the social networking sites like Facebook, twitter, google plus, dribble, pinterest, instagram */
+            function getCode(title)
+            {
+                var code = document.getElementById("UrlEntered").value;
+                if (code != "")
+                {
+
+
+                    s = prompt(title, code);
+                }
+                else
+                {
+                    alert("Please dont leave spaces!");
+                }
+            }
+
+            //Function shortenUrl() sends the Full length Url including Username and Category to the server using xmlhttp
+            function shortenUrl()
+            {
+				if(document.getElementById("paraentered").style.display == 'none')
+					return;
+                var paraentered = encodeURIComponent(document.getElementById("paraentered").value);
+				
+				if(paraentered.trim()==""){
+					getCode("Error");
+					return;
+				}
+                $("#loading").show();
+                $.post("handleURLmain.php", {XDEBUG_PROFILE:1,TextEntered: paraentered })
+                        .done(function (data) {
+							document.getElementById("UrlEntered").value = data.trim();
+							document.getElementById('urlbox').style.display = 'block';
+							document.getElementById('goid').style.display = 'none';
+							document.getElementById('ngoid').style.display = 'block';
+							document.getElementById("paraentered").style.display = 'none';
+                            $("#loading").hide();
+
+                        });
+
+
+            }
+
+            //Function resetAll() clears the text elements and reset everything
+            function resetAll()
+            {
+
+                document.getElementById('UrlEntered').value = "";
+				document.getElementById('urlbox').style.display = 'none';
+				document.getElementById('paraentered').style.display = 'block';
+				document.getElementById('goid').style.display = 'block';
+				document.getElementById('ngoid').style.display = 'none';
+				document.getElementById('paraentered').value = "";
+
+            }
+
+            //On enter Url textbox call shortenUrl() function
+            $('#UrlEntered').keypress(function (e) {
+                var code = (e.keyCode ? e.keyCode : e.which);
+                if (code == 13)
+                {
+
+                    shortenUrl();
+                    return false;
+                }
+            });
+
+
+        </script>
+    </body>
+</html>

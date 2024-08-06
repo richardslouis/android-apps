@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        minSdkVersion 18
+        targetSdkVersion 26
+        versionCode 2500
+        versionName "8.0"
+        applicationId "com.bc.xyz"
+        manifestPlaceholders = [manifestApplicationId          : "${applicationId}",
+                                onesignal_app_id               : "6a0719d3-7333-4bd9-8972-9c1df5eae3e0",
+                                onesignal_google_project_number: "151771448378"]
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //testCompile 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:23.4.0'
+    implementation 'com.onesignal:OneSignal:2.+@aar'
+    implementation 'com.google.android.gms:play-services-gcm:+'
+    implementation 'com.google.android.gms:play-services-analytics:+'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+}

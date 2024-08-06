@@ -1,0 +1,338 @@
+
+/*==========================================================
+    Template Name: Mim Personal Portfolio Template
+    Created By: RegalTheme
+    Envato Profile: https://themeforest.net/user/regaltheme
+    Website: http://regaltheme.com
+    Description: Mim is Fully Responsive Personal Portfolio Template with awesome features.
+    Version: v1.1
+    Support: http://regaltheme.com/support
+============================================================*/
+
+/*===========================================================
+    CSS INDEX
+    ===================
+	
+	[ 1. General Code ]
+	[ 2. Typography ]
+	[ 3. Global Classes ]
+	[ 6. Loding Bar ]
+	[ 7. ScrollUp ]
+==============================================================*/
+
+
+/* 
+[ 1. General Code ]
+================ */
+body{
+	font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #a1a1a1;
+    background-color: #fff;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: 100%;
+    -webkit-overflow-scrolling: touch;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+::-moz-selection {
+    background: #318DFD;
+    text-shadow: none;
+	color:#fff;
+}
+::selection {
+    background: #318DFD;
+    text-shadow: none;
+	color:#fff;
+}
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+img {
+	max-width:100%;
+}
+.fix {
+	overflow:hidden;
+}
+
+hr.line {
+	background: #f5f5f5 none repeat scroll 0 0;
+	border: 0 none;
+	height: 1px;
+	margin: 0 auto;
+	width: 100px;
+}
+.col-text-center{
+	float: none !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+.clear{
+	clear:both
+}
+
+input::-moz-placeholder,
+textarea::-moz-placeholder,
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder,
+input::-ms-input-placeholder,
+textarea::-ms-input-placeholder{
+	opacity:1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+input:focus,
+textarea:focus {
+	outline: 0px;
+}
+
+/* installed fonts
+---------------- */
+
+@font-face {
+    font-family: 'montserratlight';
+    src: url('../fonts/montserrat-light-webfont.eot');
+    src: url('../fonts/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/montserrat-light-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-light-webfont.woff') format('woff'),
+         url('../fonts/montserrat-light-webfont.svg#montserratlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserratsemibold';
+    src: url('../fonts/montserrat-semibold-webfont.eot');
+    src: url('../fonts/montserrat-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/montserrat-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-semibold-webfont.woff') format('woff'),
+         url('../fonts/montserrat-semibold-webfont.svg#montserratsemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Link style
+============== */
+a {
+    color: #ffffff;
+	font-family: 'montserratsemibold';
+    font-weight: 400;
+    text-transform: uppercase;
+	line-height: 1;
+}
+a,a > * {
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:focus,
+a:hover {
+    color: #ffffff;
+    outline: none;
+    text-decoration: none;
+}
+
+/* Transition
+=============== */
+a,
+.navbar a,
+.form-control {
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease; 
+}
+
+
+/* 
+[ 2. Typography ]
+==========================*/
+p{
+	font-family: 'Poppins', sans-serif;
+	color: #767676;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'montserratsemibold';
+    font-weight: 400;
+    color: #4f4f4f;
+    margin: 0 0 15px;
+	text-transform:uppercase;
+}
+h1 {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+h2 {
+    font-size: 32px;
+	color: #484848;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px;
+}
+h6 {
+    font-size: 13px;
+}
+
+/* 
+[ 3. Global Classes ]
+=================== */
+
+.ptb-150{
+	padding-top:150px;
+	padding-bottom:150px;
+}
+.pb-15{
+padding-bottom: 15px;	
+}
+.single-page-img {
+    height: 620px;
+    overflow: hidden;
+    box-shadow: 0 1px 10px rgba(0,0,0,.2);
+}
+.single-page-img a::after {
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+}
+.single-page-img.light-overlay a::after {
+    background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
+}
+.single-page-img a:hover::after {
+    opacity: 1;
+}
+.single-page-img a {
+    display: block;
+    position: relative;
+}
+
+
+.preview-header p a {
+    color: #767676;
+    display: inline-block;
+    font-family: "Poppins",sans-serif;
+    font-size: 16px;
+    margin-top: 40px;
+}
+.preview-header p a:hover {
+    color: #000000;
+}
+
+
+
+/* 
+[ 6. Loding Bar ]
+======================*/
+#loading {
+  background: #000 none repeat scroll 0 0;
+  height: 100%;
+  margin-top: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999999;
+}
+#loading-center{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#loading-center-absolute {
+	height: auto;
+	left: 50%;
+	margin-left: -60px;
+	margin-top: -10px;
+	position: absolute;
+	top: 50%;
+	width: 120px;
+}
+.object {
+	background: #ffffff none repeat scroll 0 0;
+	border-radius: 50%;
+	height: 10px;
+	left: -21px;
+	margin: -20px auto 0;
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 10px;
+}
+#object_three {
+    -webkit-animation: object_three 1.5s infinite;
+    animation: object_three 1.5s infinite;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+@-webkit-keyframes object_three {
+75% {
+    transform: scale(0);
+    -webkit-transform: scale(0);
+}
+}
+
+@keyframes object_three {
+75% {
+    transform: scale(0);
+    -webkit-transform: scale(0);
+}
+}
+
+/* 
+[ 7. ScrollUp ]
+===============*/
+
+#scrollUp {
+	background: #393939 none repeat scroll 0 0;
+	bottom: 60px;
+	height: 35px;
+	right: 15px;
+	text-align: center;
+	width: 30px;
+}
+#scrollUp i { 
+    color: #fff;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+}
+#scrollUp:hover {
+	background: #000000 none repeat scroll 0 0;
+}
+
+/*====================================================================
+							[ END ]
+======================================================================*/

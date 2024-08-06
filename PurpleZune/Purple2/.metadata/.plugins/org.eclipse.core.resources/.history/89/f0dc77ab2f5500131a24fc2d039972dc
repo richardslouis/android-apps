@@ -1,0 +1,33 @@
+package com.glueping;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+
+public class GluePing extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_glue_ping);
+	}
+
+	  private void openURL() {
+		  webview.setInitialScale(1);
+		  webview.getSettings().setJavaScriptEnabled(true);
+		  webview.getSettings().setLoadWithOverviewMode(true);
+		  webview.getSettings().setUseWideViewPort(true);
+		  webview.setScrollBarStyle(WebView.SCROLLBARS_OUTSIDE_OVERLAY);
+		  webview.setScrollbarFadingEnabled(false);
+
+	      webview.loadUrl("http://m.glueping.com");
+	  }	
+	
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.activity_glue_ping, menu);
+		return true;
+	}
+
+}

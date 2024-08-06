@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\386d919882af1dc5d0cb84c43ea169b9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\Zizz\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\7e40de6aec7a8b36b6201aaa1ca2567f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\Zizz\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\e867cee1e2d75f486215121806889846\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\Zizz\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+
+</items>

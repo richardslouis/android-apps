@@ -1,0 +1,4 @@
+(res/drawable-xhdpi/ic_launcher.png) found an alternate icon with better size:impact=1
+(AndroidManifest.xml) targetSdkVersion: 17 is higher than 10:required minimal Tablet OS version=10.2:impact=1
+PAVPLogger : parsing Logs for impacts : com.rim.pavp.sdk_wrapper.Impact@9973a4
+Using custom manifest additions from file: C:\Users\Richards\AppData\Local\Temp\manifest3806914149914505358.mf

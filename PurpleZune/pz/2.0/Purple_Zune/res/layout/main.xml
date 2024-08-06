@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/URL"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/Go"
+        android:ems="10"
+        android:lines="@integer/donkey"
+        android:maxLines="@integer/donkey"
+        android:textSize="@dimen/pinky"
+        tools:ignore="TextFields,HardcodedText" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/Go"
+        android:layout_width="120dp"
+        android:layout_height="34dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="Go"
+        tools:ignore="HardcodedText" />
+
+    <WebView
+        android:id="@+id/WebEngine"
+        android:layout_width="fill_parent"
+        android:layout_height="466dp"
+        android:layout_above="@+id/progressBar1"
+        android:layout_alignParentLeft="true" />
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:progressDrawable="@layout/greenprogress"
+         />
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="120dp"
+        android:layout_height="34dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/URL"
+        android:text="Info"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="120dp"
+        android:layout_height="34dp"
+        android:layout_alignBaseline="@+id/Button01"
+        android:layout_alignBottom="@+id/Button01"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/Button01"
+        android:text="flip it"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>

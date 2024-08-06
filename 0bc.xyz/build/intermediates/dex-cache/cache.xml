@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dc4045d132891fd36458a102e472df48\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\1f1728aa70e4447c3cd01cf40f913945\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b49a35edc3c04e5394bb287a7281d097a12968a7">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\8c9c596eb96c5d9d6708f4d1ee2ce3ec\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\d3f4ebdfbf6be3f14b16bef253b68889\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="031cce39c6f4028380fa55bf57e96444093630c7">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\d11b179b2a60f2ab3325831084057dd9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3a3c8dc3e6db5655f5affc2ceb7f630f75450c0">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\20bbe37855e17bb9b7b99aa067c84c1f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\662e11cc47bb56e12ac5340593e2f637\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a7d0f56998f02013d60f1d18affb44eb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7af67307912f5fb8d431a5740e26ea17\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a654d2ad82b2201c4167c65267c845c3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\33f4994fa275e882a3545cc23fdbe2e8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b4f94fecd526ee8ab425e20cfe17695549beb01">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\9be99186d2f22430d68ee3abfce58b6a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\a34c0c3da5860fafadbb78866394f089\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48782a67d19439b9d65699a389b96dd335cefa36">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\9967e4fd268e5385ea30acad805a0976\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\richi\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\fa57c37a9e13868b73ea94b006e7a996\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="C:\Users\richi\AndroidStudioProjects\0bc.xyz\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+
+</items>

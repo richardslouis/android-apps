@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Richards Louis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\support-annotations-23.0.0_f744e464307a880e1b4133ed2f686db3ec34ddce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-8.4.0_d5e1b4fc1334ecc337051c285389b607a917cf7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.0_060959632adec1292140cf0120a6c226af82ff5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0_2cbfbba0e0feb0710cf92896e7149eb3a40504d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-measurement-8.4.0_8202b2fd89bc3b070feb1832e2d58aff912ca7f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-8.4.0_312b7c1ad1711e4aa5207c59e4b8e34626636a16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e44af4625205a1cdd8909b18834070b5a953869e">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.onesignal-OneSignal-2.3.0_df172a9d395196e6d769a3353c134ad658bc7a80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-19.1.0_8bf4650580003cfe21becb7415d016e16ee1b5b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.4.0_98468329857c9c43e57fe2894185390c04d35897.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Archive\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-8.4.0_59aad6171899f3aff687101ad94cc8088683c96d.jar" />
+    </item>
+
+</items>

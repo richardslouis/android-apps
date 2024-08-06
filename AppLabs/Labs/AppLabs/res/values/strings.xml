@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppLabs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_registernow">Registernow</string>
+    <string name="title_activity_labs">Labs</string>
+    <string name="title_activity_richiesoft">Richiesoft</string>
+    <string name="title_activity_info">Info</string>
+
+</resources>

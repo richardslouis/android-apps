@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bade648cc46af0ffc636586806c60dba1b7fdf8">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-11.0.0_6406126ec21f28d2ad72212e5090c600e28197d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.2.4_e719474deb9a17610fef44b9e72821afea6b8b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.2.0_da00970891e6071fcb24a028bc441b0f3c50d56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.2.0_f245e4ac380f1ecc1e8fa7ce6046284dc0a47c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.2.0_2b5a4415ac2fc760c22b39f49b1e4b93b02179fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-11.0.0_e7c446e07398c0cf8fcf61c0a2dfe47ad9c652a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.onesignal-OneSignal-2.6.2_624444353d66ecc5b4350e8aa0bfe9f130a01db7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.2.0_95ff05cfcc488cc2e9a10938049d8e001442893a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5af721e99ea8e51ab4c68975048641f01aca77b2">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-v4-impl-11.0.0_84afbe4f1bf622f65d7bf08aa7755d972050b723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.2.4_8122fbca02572e1efb7aa301afdf995a3ae54e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.2.4_2182f28e7058425e503fcb8a837d0d14e7fb52ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_19af1295e60c5face25e560e5ab5ddfe95131fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6688016b1c2ab0daad89bb59ca9b7acbd1c80412">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-11.0.0_46e51078879b7b80f9e86b6d16b4f9dc52fda288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6c098516db3cf935b4a45dc4dfa95cf71d751961">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-impl-11.0.0_f1cc4c887385d35d3852c7ea11217c9f023b24dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-11.0.0_c1c58e55c6655885a5971540bd12514a7eb3be70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.2.4_6e06dc0d1ea8ee35aceac35fddef689532f25266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.2.0_d0ad919660fb8ffebf7ecfebdbf66e263dfc828e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_0680893687723558ac3606e165bf1b0ae1c542c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_8fd16c478e190180cb0449949d414e6f030ffdd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_1bd7bf3ccb48b7d40d5e01611a1b78e064282ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e5e6d0c253cc142bd6a586b3fa0bc9bc9024a7d">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-11.0.0_ada5686f970c6fc887d8df5eb1e1641d70dd5b60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-11.0.0_c8a502c7b47f6a48e4269e5d2f4e8b8b99cf1ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_1e9a24cbd484dd3bc0ee268aabe991c8f75ea65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_81a7cef2b271e58236de30cd7322deccb0d6b098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.2.0_9165df23c81dafdc9b2e76b8a04d322af9aee31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="C:\Users\Richards Louis\AndroidStudioProjects\Glueping\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.4_8fd13b4d268ddd96d369e029b0197c08a1a2576a.jar" />
+    </item>
+
+</items>

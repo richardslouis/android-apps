@@ -1,0 +1,7 @@
+(res/mipmap-xhdpi-v4/ic_launcher.png) found an alternate icon with better size:impact=1
+(AndroidManifest.xml) targetSdkVersion: 23 is higher than 18:impact=1
+(com/onesignal/shortcutbadger/ShortcutBadger.java:105) class: com/onesignal/shortcutbadger/ShortcutBadger uses intent category android.intent.category.HOME:impact=5
+(com/google/android/gms/common/GoogleApiAvailability.java) class: com/google/android/gms/common/GoogleApiAvailability uses intent action android.intent.action.PACKAGE_ADDED:impact=1
+Missing PUSH configuration file: app-release.cfg :impact=3
+Summary: [5]=1; [4]=0; [3]=1; [2]=0; [1]=3;
+Impact Legend: [5]=Severe; [4]=High /context; [3]=Medium /context; [2]=Medium-low /context; [1]=Minor;

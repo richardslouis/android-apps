@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_light_primary">#f15424</color>
+    <color name="holo_light_primary_dark">#f15424</color>
+    <color name="background_holo_light">#d10101</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorPrimary">#d10101</color>
+    <color name="colorPrimaryDark">@color/background_holo_light</color>
+    <color name="black">#d10101</color>
+    <color name="primary_text_material_light">#ffffff</color>
+    <color name="secondary_text_material_light">#8affffff</color>
+    <color name="background_floating_material_light">#767272</color>
+</resources>

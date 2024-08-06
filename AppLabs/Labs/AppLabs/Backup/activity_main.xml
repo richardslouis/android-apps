@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/bg"
+    android:ignoreGravity="@layout/activity_main"
+    android:scrollbars="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        tools:ignore="UselessLeaf" >
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/Button04"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="76dp"
+        android:onClick="@string/title_activity_richiesoft"
+        android:text="Richiesoft"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:layout_below="@+id/Button04"
+        android:layout_centerHorizontal="true"
+        android:onClick="@string/title_activity_labs"
+        android:text="Labs"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button05"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:layout_below="@+id/Button02"
+        android:layout_centerHorizontal="true"
+        android:onClick="@string/title_activity_info"
+        android:text="Info"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:layout_below="@+id/Button05"
+        android:layout_centerHorizontal="true"
+        android:enabled="false"
+        android:text="Login"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:layout_below="@+id/Button01"
+        android:layout_centerHorizontal="true"
+        android:enabled="false"
+        android:text="Design Labs"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="400px"
+        android:layout_height="60px"
+        android:layout_alignLeft="@+id/Button04"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginTop="34dp"
+        android:onClick="@string/title_activity_registernow"
+        android:text="Register Now"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>

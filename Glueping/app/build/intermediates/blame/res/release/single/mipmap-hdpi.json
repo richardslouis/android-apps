@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Glueping\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Glueping\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Glueping\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\splash.png",
+        "source": "C:\\Users\\Richards Louis\\AndroidStudioProjects\\Glueping\\app\\src\\main\\res\\mipmap-hdpi\\splash.png"
+    }
+]
